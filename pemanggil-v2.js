@@ -19,22 +19,22 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*20)+ 1);var xxx=null;
-if(x=="1"){xxx="/2017/06/go-link1.html"}
+if(x=="1"){xxx="/2017/09/how-to-choose-best-health-insurance-for.html"}
 if(x=="2"){xxx="/2017/06/go-link2.html"}
 if(x=="3"){xxx="/2017/06/go-link3.html"}
 if(x=="4"){xxx="/2017/06/go-link4.html"}
 if(x=="5"){xxx="/2017/06/go-link5.html"}
-if(x=="6"){xxx="/2017/06/go-link1.html"}
+if(x=="6"){xxx="/2017/09/how-to-choose-best-health-insurance-for.html"}
 if(x=="7"){xxx="/2017/06/go-link2.html"}
 if(x=="8"){xxx="/2017/06/go-link3.html"}
 if(x=="9"){xxx="/2017/06/go-link4.html"}
 if(x=="10"){xxx="/2017/06/go-link5.html"}
-if(x=="11"){xxx="/2017/06/go-link1.html"}
+if(x=="11"){xxx="/2017/09/how-to-choose-best-health-insurance-for.html"}
 if(x=="12"){xxx="/2017/06/go-link2.html"}
 if(x=="13"){xxx="/2017/06/go-link3.html"}
 if(x=="14"){xxx="/2017/06/go-link4.html"}
 if(x=="15"){xxx="/2017/06/go-link5.html"}
-if(x=="16"){xxx="/2017/06/go-link1.html"}
+if(x=="16"){xxx="/2017/09/how-to-choose-best-health-insurance-for.html"}
 if(x=="17"){xxx="/2017/06/go-link2.html"}
 if(x=="18"){xxx="/2017/06/go-link3.html"}
 if(x=="19"){xxx="/2017/06/go-link4.html"}
